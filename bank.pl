@@ -13,7 +13,7 @@ use POSIX qw(strftime);     # formatted date and time
 # ------------------------------------------------------------------------------
 # --- token for getting account state -------------------------------------------
 # ------------------------------------------------------------------------------
-my $fioToken  =  'c1qNHaxX2deoeqRaFHb5qSnEsBlzVy8Pnk6p5hMYyQtZvaaCwK9x1v9JZMwmqijZ'; # !!! TOKEN MUST BE INSERTED !!!
+my $fioToken  =  '!!! TOKEN MUST BE INSERTED !!!'; # !!! TOKEN MUST BE INSERTED !!!
 # ------------------------------------------------------------------------------
 my $fioFormat = 'json'; # !!! DON'T CHANGE THIS VALUE !!!
 
